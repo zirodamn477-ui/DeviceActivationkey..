@@ -65,5 +65,11 @@ k[
         "expirydate": "6-012-2025",
         "Allowoffline": false
     },
+{
+        "device_id": "950af6e53ee5dac2",
+        "key": "alenkalbo",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
+    },
     
 ]
