@@ -1,4 +1,4 @@
-[
+k[
     {
         "device_id": "device123",
         "key": "key12345",
