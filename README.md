@@ -16,5 +16,11 @@
         "key": "KEYMOTOTANGA",
         "expirydate": "7-012-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "820da3944952b50b",
+        "key": "Freekey",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
     }
 ]
