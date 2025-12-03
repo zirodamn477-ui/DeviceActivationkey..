@@ -59,5 +59,11 @@ k[
         "expirydate": "5-012-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "319bd4cc6cd7730d",
+        "key": "pogibaako",
+        "expirydate": "6-012-2025",
+        "Allowoffline": false
+    },
     
 ]
