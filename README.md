@@ -28,5 +28,11 @@
         "key": "feedbackayaw",
         "expirydate": "5-012-2025",
         "Allowoffline": false
+    },
+            {
+        "device_id": "d51d7c83c6dc2ab5",
+        "key": "magaralka",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
     }
 ]
