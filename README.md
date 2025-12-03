@@ -34,5 +34,11 @@
         "key": "magaralka",
         "expirydate": "5-012-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "81b8a1acb4fe8f26",
+        "key": "sasukenapagod",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
     }
 ]
