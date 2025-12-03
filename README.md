@@ -1,4 +1,4 @@
-k[
+[
     {
         "device_id": "device123",
         "key": "key12345",
@@ -11,71 +11,10 @@ k[
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-        {
+    {
         "device_id": "37fd69b46a6334de",
-        "key": "KEYMOTOTANGA",
-        "expirydate": "7-012-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "820da3944952b50b",
-        "key": "Freekey",
-        "expirydate": "5-012-2025",
-        "Allowoffline": false
-    },
-        {
-        "device_id": "0c5b0329e5ba4049",
-        "key": "feedbackayaw",
-        "expirydate": "5-012-2025",
-        "Allowoffline": false
-    },
-            {
-        "device_id": "d51d7c83c6dc2ab5",
-        "key": "magaralka",
-        "expirydate": "5-012-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "81b8a1acb4fe8f26",
-        "key": "sasukenapagod",
-        "expirydate": "5-012-2025",
-        "Allowoffline": false
-    },
-        {
-        "device_id": "pzc7hhqds9eowxek",
-        "key": "subomoburatkopre",
-        "expirydate": "20-012-2025",
-        "Allowoffline": false
-    },
-            {
-        "device_id": "pzc7hhqds9eowxek",
-        "key": "badingka",
-        "expirydate": "18-012-2025",
-        "Allowoffline": false
-    },
-                {
-        "device_id": "478555a443259f9b",
-        "key": "Tulogna",
-        "expirydate": "5-012-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "319bd4cc6cd7730d",
-        "key": "pogibaako",
-        "expirydate": "6-012-2025",
-        "Allowoffline": false
-    },
-{
-        "device_id": "950af6e53ee5dac2",
-        "key": "alenkalbo",
-        "expirydate": "5-012-2025",
-        "Allowoffline": false
-    },
-        {
-        "device_id": "478555a443259f9b",
-        "key": "Cjaykey",
-        "expirydate": "5-012-2025",
+        "key": "Keyerror",
+        "expirydate": "16-012-2025",
         "Allowoffline": false
     }
-    
 ]
