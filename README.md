@@ -52,5 +52,11 @@ k[
         "key": "badingka",
         "expirydate": "18-012-2025",
         "Allowoffline": false
-    }
+    },
+                {
+        "device_id": "pzc7hhqds9eowxek",
+        "key": "Freekey12",
+        "expirydate": "6-012-2025",
+        "Allowoffline": false
+    },
 ]
