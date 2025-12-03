@@ -40,5 +40,11 @@
         "key": "sasukenapagod",
         "expirydate": "5-012-2025",
         "Allowoffline": false
+    },
+        {
+        "device_id": "pzc7hhqds9eowxek",
+        "key": "subomoburatkopre",
+        "expirydate": "20-012-2025",
+        "Allowoffline": false
     }
 ]
