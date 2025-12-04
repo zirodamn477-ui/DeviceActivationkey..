@@ -117,5 +117,11 @@
         "key": "etokeymo",
         "expirydate": "5-012-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "962f0a04d69c6545",
+        "key": "lunokmotamodko",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
     }
 ]
