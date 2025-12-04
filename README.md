@@ -65,10 +65,10 @@
         "expirydate": "5-012-2025",
         "Allowoffline": false
     },
-                        {
-        "device_id": "a0fbfe50c43862c8",
+                            {
+        "device_id": "0cf89cdcc3a014d0",
         "key": "4dayskey",
-        "expirydate": "9-012-2025",
+        "expirydate": "5-012-2025",
         "Allowoffline": false
     }
 ]
