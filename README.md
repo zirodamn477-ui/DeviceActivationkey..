@@ -52,5 +52,11 @@
         "key": "subomotopre",
         "expirydate": "5-012-2025",
         "Allowoffline": false
+    },
+                {
+        "device_id": "6383a766e531a95e",
+        "key": "matsalabpo",
+        "expirydate": "9-012-2025",
+        "Allowoffline": false
     }
 ]
