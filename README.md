@@ -40,5 +40,11 @@
         "key": "aralmabuti",
         "expirydate": "5-012-2025",
         "Allowoffline": false
+    },
+        {
+        "device_id": "de04147b60c5dd06",
+        "key": "Kyojinszip",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
     }
 ]
