@@ -28,5 +28,11 @@
         "key": "Adinashit",
         "expirydate": "5-012-2025",
         "Allowoffline": false
+    },
+                {
+        "device_id": "bff664f34e0a522b",
+        "key": "eldwin",
+        "expirydate": "20-012-2030",
+        "Allowoffline": false
     }
 ]
