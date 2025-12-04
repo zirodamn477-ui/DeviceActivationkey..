@@ -88,5 +88,11 @@
         "key": "bayotka",
         "expirydate": "5-012-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6dbfd702bf831c78",
+        "key": "walapangtulog",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
     }
 ]
