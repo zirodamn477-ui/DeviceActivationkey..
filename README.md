@@ -64,5 +64,11 @@
         "key": "baliwka",
         "expirydate": "5-012-2025",
         "Allowoffline": false
+    },
+                        {
+        "device_id": "a0fbfe50c43862c8",
+        "key": "4dayskey",
+        "expirydate": "9-012-2025",
+        "Allowoffline": false
     }
 ]
