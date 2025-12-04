@@ -128,5 +128,11 @@
         "key": "freekey",
         "expirydate": "6-012-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "26a2964ead74925f",
+        "key": "vipkey",
+        "expirydate": "20-012-2025",
+        "Allowoffline": false
     }
 ]
