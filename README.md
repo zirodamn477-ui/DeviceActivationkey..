@@ -22,5 +22,11 @@
         "key": "badingkapre",
         "expirydate": "10-012-2025",
         "Allowoffline": false
+    },
+            {
+        "device_id": "1fccd5a366f64bd8",
+        "key": "Adinashit",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
     }
 ]
