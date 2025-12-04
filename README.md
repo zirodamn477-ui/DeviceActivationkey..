@@ -46,5 +46,11 @@
         "key": "Kyojinszip",
         "expirydate": "5-012-2025",
         "Allowoffline": false
+    },
+            {
+        "device_id": "4593a5bc7f59c435",
+        "key": "subomotopre",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
     }
 ]
