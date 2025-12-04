@@ -34,5 +34,11 @@
         "key": "eldwin",
         "expirydate": "20-012-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "478555a443259f9b",
+        "key": "aralmabuti",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
     }
 ]
