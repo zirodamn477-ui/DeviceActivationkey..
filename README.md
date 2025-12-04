@@ -123,5 +123,10 @@
         "key": "lunokmotamodko",
         "expirydate": "5-012-2025",
         "Allowoffline": false
+    },    {
+        "device_id": "16c067a6c0539d7d",
+        "key": "freekey",
+        "expirydate": "6-012-2025",
+        "Allowoffline": false
     }
 ]
