@@ -76,5 +76,11 @@
         "key": "Jaivip",
         "expirydate": "9-012-2025",
         "Allowoffline": false
+    },
+                                    {
+        "device_id": "afe0d8acf47eb8d2",
+        "key": "ambahomo",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
     }
 ]
