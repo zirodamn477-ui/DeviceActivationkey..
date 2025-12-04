@@ -82,5 +82,11 @@
         "key": "ambahomo",
         "expirydate": "5-012-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bf337f92bf6e2367",
+        "key": "bayotka",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
     }
 ]
