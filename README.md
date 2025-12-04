@@ -94,5 +94,17 @@
         "key": "walapangtulog",
         "expirydate": "5-012-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f2e09921cabdd1ed",
+        "key": "subomotosagad",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "950af6e53ee5dac2",
+        "key": "walapangtulog",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
     }
 ]
