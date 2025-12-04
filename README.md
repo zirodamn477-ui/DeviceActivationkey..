@@ -58,5 +58,11 @@
         "key": "matsalabpo",
         "expirydate": "9-012-2025",
         "Allowoffline": false
+    },
+                    {
+        "device_id": "11cd17e4c0149ad8",
+        "key": "baliwka",
+        "expirydate": "5-012-2025",
+        "Allowoffline": false
     }
 ]
