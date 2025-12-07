@@ -147,9 +147,9 @@ l[
         "Allowoffline": false
     },
     {
-        "device_id": "ac45272087831321",
-        "key": "viptol",
-        "expirydate": "29-012-2025",
+        "device_id": "37fd69b46a6334de",
+        "key": "paldoka",
+        "expirydate": "20-012-2025",
         "Allowoffline": false
     },
 ]
